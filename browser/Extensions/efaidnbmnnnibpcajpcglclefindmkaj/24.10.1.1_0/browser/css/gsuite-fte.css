@@ -1,0 +1,18 @@
+/*************************************************************************
+* ADOBE CONFIDENTIAL
+* ___________________
+*
+*  Copyright 2015 Adobe Systems Incorporated
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of Adobe Systems Incorporated and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to Adobe Systems Incorporated and its
+* suppliers and are protected by all applicable intellectual property laws,
+* including trade secret and or copyright laws.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from Adobe Systems Incorporated.
+**************************************************************************/
+#acrobat-fte-tooltipButton{padding:10px 20px;font-size:16px;cursor:pointer}.acrobat-fte-tooltip-container{display:flex;position:absolute;width:186px;padding:12px;background-color:#1c73e8;color:#fff;border-radius:4px;flex-direction:column;align-items:center;text-align:center;cursor:default}.acrobat-fte-tooltip-arrow{position:absolute;width:0;height:0;border-left:8px solid transparent;border-right:8px solid transparent}.acrobat-fte-tooltip-title{font-weight:700;font-size:14px;line-height:17px;margin:2px 0}.acrobat-fte-tooltip-description,.acrobat-fte-tooltip-title{font-family:AdobeClean-Regular;text-align:left;width:inherit;text-wrap:wrap}.acrobat-fte-tooltip-description{font-weight:350;font-size:12px;line-height:16px;margin:6px 0}.acrobat-fte-tooltip-button{font-family:AdobeClean-Regular;font-weight:700;background:none;border:none;color:inherit;font-size:14px;line-height:6px;cursor:pointer;padding:4px 0 0;display:flex;align-self:flex-start;margin:6px 0}.acrobat-fte-tooltip-button:hover{color:#e0e0e0}.acrobat-fte-tooltip-container-nativeView{top:44px;right:-41px}.acrobat-fte-tooltip-arrow-nativeView{top:-8px;right:158px;border-bottom:11px solid #1c73e8}.acrobat-fte-tooltip-container-messageView{bottom:35px;left:41px}.acrobat-fte-tooltip-arrow-messageView{top:99px;left:26px;border-top:11px solid #1c73e8}.acrobat-fte-tooltip-container-listViewLastThread{top:-115px;right:-174px}.acrobat-fte-tooltip-arrow-listViewLastThread{bottom:-10px;left:17px;border-top:11px solid #1c73e8}.acrobat-fte-tooltip-container-listView{top:36px;right:-174px}.acrobat-fte-tooltip-arrow-listView{top:-10px;left:17px;border-bottom:11px solid #1c73e8}

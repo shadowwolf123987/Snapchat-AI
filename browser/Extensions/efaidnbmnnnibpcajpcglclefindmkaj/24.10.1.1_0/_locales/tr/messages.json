@@ -1,0 +1,465 @@
+{
+   "ConvertVerbDescription": {
+      "message": "Belgeleri PDF'ye veya PDF'den başka formatlara dönüştürün."
+   },
+   "Disable": {
+      "message": "Kapat"
+   },
+   "EditVerbDescription": {
+      "message": "PDF'nizdeki sayfaları yeniden sıralayın, döndürün veya silin."
+   },
+   "Enable": {
+      "message": "Etkinleştir"
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/tr/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/tr/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "acrobatGmailFteToolTipButton": {
+      "message": "Anladım"
+   },
+   "acrobatGmailFteToolTipDescription": {
+      "message": "Acrobat ile doğrudan Chrome'da düzenleyin, dönüştürün, yorum ekleyin ve imzalayın"
+   },
+   "acrobatGmailFteToolTipTitle": {
+      "message": "Bu PDF'yi Acrobat’ta Aç"
+   },
+   "acrobatGsuiteFteToolTipButton": {
+      "message": "Anladım"
+   },
+   "acrobatGsuiteFteToolTipDescription": {
+      "message": "Acrobat ile doğrudan Chrome'da düzenleyin, dönüştürün, yorum ekleyin ve imzalayın"
+   },
+   "acrobatGsuiteFteToolTipTitle": {
+      "message": "Bu PDF'yi Acrobat’ta Aç"
+   },
+   "acrobatGsuiteTouchPointPreferenceDescription": {
+      "message": "Bu entegrasyon Gmail ve Google Drive PDF'lerini Acrobat uzantısıyla açıp düzenlemenize olanak tanır"
+   },
+   "acrobatGsuiteTouchPointPreferenceTitle": {
+      "message": "Gmail'de ve Google Drive'da Acrobat entegrasyonu"
+   },
+   "adobeYoloErrorMessage": {
+      "message": "Maalesef bu bağlantı geçersiz"
+   },
+   "adobeYoloMessage": {
+      "message": "Acrobat'a giriş yapılıyor..."
+   },
+   "analyticsOptinTitle": {
+      "message": "Kullanım verileri gönder"
+   },
+   "appearancePrefDesc": {
+      "message": "Koyu ve açık tema arasında geçiş yapma"
+   },
+   "appearancePrefOp1": {
+      "message": "Sistem ayarını kullan"
+   },
+   "appearancePrefOp2": {
+      "message": "Koyu mod"
+   },
+   "appearancePrefOp3": {
+      "message": "Açık mod"
+   },
+   "appearancePrefTitle": {
+      "message": "Koyu mod ayarları"
+   },
+   "closeButton": {
+      "message": "Kapat"
+   },
+   "dcWebBookmarkTitle": {
+      "message": "Adobe Acrobat Ana Sayfası"
+   },
+   "doNotShowButton": {
+      "message": "Tekrar gösterme"
+   },
+   "downloadBannerContinue": {
+      "message": "Aç"
+   },
+   "downloadBannerText": {
+      "message": "Uygulamayı Chrome'da varsayılan PDF görüntüleyici olarak ayarlayarak İndirilen tüm PDF'leri Acrobat'ta açın"
+   },
+   "editMegaVerbText": {
+      "message": "Düzenle"
+   },
+   "enableGenAIFeaturesDescription": {
+      "message": "Üretken yapay zeka özelliği kullandığınızda dosyanız bulutta işlenir. Bu özelliği kapatırsanız dosyanız işlenmez ve üretken yapay zeka devre dışı bırakılır. Dilediğiniz zaman yeniden etkinleştirebilirsiniz."
+   },
+   "enableGenAIFeaturesTitle": {
+      "message": "Acrobat'ta Üretken Yapay Zeka özelliklerini etkinleştirin"
+   },
+   "extensionMenuTitle": {
+      "message": "Acrobat Uzantısı - Tüm PDF araçlarınızın kısayolu"
+   },
+   "fteOwnershipSideRedCardContent": {
+      "message": "Acrobat'ı varsayılan PDF görüntüleyiciniz olarak ayarladığınızda yorum ekleme, form doldurma, imzalama ve daha fazla özelliğe doğrudan Chrome'da erişirsiniz."
+   },
+   "fteSideCardPrimaryHeader": {
+      "message": "Acrobat'ı kullanın"
+   },
+   "fteSideCardSecondaryHeader": {
+      "message": "Chrome'da deneyin"
+   },
+   "gDriveDVPAppListCoachMarkContent": {
+      "message": "Google Drive PDF'lerini bir sonraki sefer doğrudan Acrobat'ta açmak için 'Varsayılan olarak kullan' onay kutusunu işaretleyin"
+   },
+   "gDriveDVPCoachMarkTitle": {
+      "message": "Acrobat'ı varsayılan görüntüleyici olarak ayarlayın"
+   },
+   "gDriveDVPManageAppCoachMarkContent": {
+      "message": "Tüm Google Drive PDF'lerini doğrudan Acrobat'ta açarak PDF'leri görüntülemek, düzenlemek ve PDF'lere yorum eklemek için 'Uygulamaları Yönet' öğesini tıklatın"
+   },
+   "gSuiteDVPAddOnDefaultDesc": {
+      "message": "Acrobat eklentisi varsayılan olarak ayarlanır"
+   },
+   "genericDVPCoachMarkContent": {
+      "message": "'Uygulamaları Yönet' öğesini tıklatın ve ardından sayfayı Acrobat Eklentisi'ne kaydırıp 'Varsayılan olarak kullan' onay kutusunu tıklatın"
+   },
+   "gmailPromptFTETooltip": {
+      "message": "Düzenleme ve İmzalama gibi araçları kullanmak için PDF'leri Acrobat'ta açın"
+   },
+   "gsuiteEditWithAcrobat": {
+      "message": "Acrobat ile Düzenleyin"
+   },
+   "gsuiteOpenWithAcrobat": {
+      "message": "Acrobat'ta aç"
+   },
+   "localFileOptionDesc": {
+      "message": "Tüm PDF'lerinizi Chrome'daki Acrobat'ta açmak için Acrobat uzantısının yerel dosya URL'lerinize erişmesine izin verin."
+   },
+   "localFileOptionTitle": {
+      "message": "Acrobat'ta yerel PDF'ler açılıyor"
+   },
+   "localFteContinue": {
+      "message": "Ayarlara git"
+   },
+   "localFteDescription": {
+      "message": "Acrobat uzantısından en iyi şekilde yararlanarak tüm PDF'leri açın. Uzantı ayarlarına giderek dosya URL'lerine erişmesine izin verin."
+   },
+   "localFteDontShowAgainText": {
+      "message": "Bunu tekrar gösterme"
+   },
+   "localFteTitle": {
+      "message": "Yerel dosyalarınızı açmak için Acrobat'a geçin"
+   },
+   "optionsFailurePrompt": {
+      "message": "Değişikliklerinizi kaydedemedik; lütfen daha sonra tekrar deneyin"
+   },
+   "optionsSuccessPrompt": {
+      "message": "Tercihler başarıyla kaydedildi"
+   },
+   "optionsSuccessPromptReloadRequired": {
+      "message": "Yapılan tercih yalnızca yeniden yüklemeden sonra yansıtılır"
+   },
+   "pdfOwnerShipDmbConfirmBtn": {
+      "message": "Devam"
+   },
+   "pdfOwnerShipSideRedCardConfirmBtn": {
+      "message": "Devam"
+   },
+   "pdfOwnershipDefSideCardcontent": {
+      "message": "Adobe Acrobat'ı varsayılan PDF görüntüleyiciniz olarak ayarlayın ve görüntüleme, yorum ekleme, form doldurma, imzalama ve daha fazlasına erişin."
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Acrobat'ı Chrome'da kullanın"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Acrobat'ı Microsoft Edge'de Kullan"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Yorum ekleme, doldurma, imzalama ve diğer PDF araçlarını kullanmak için Acrobat'ı tarayıcınızdaki varsayılan PDF görüntüleyici yapar."
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "PDF'leri Acrobat'ta aç"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "Şimdi değil"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Adobe Acrobat'ı varsayılan görüntüleyiciniz olarak ayarlayarak Chrome'da PDF'lerle daha fazlasını yapın."
+   },
+   "pdfOwnershipPromptContent2": {
+      "message": "PDF'leri doğrudan Google Chrome'da kullanmak için Acrobat'ı varsayılan PDF görüntüleyiciniz olarak ayarlayın. Yorum ekleyin, belgeleri doldurun, imzalayın ve dönüştürme ve sıkıştırma gibi araçları deneyin."
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Adobe Acrobat'ı varsayılan görüntüleyiciniz olarak ayarlayarak Microsoft Edge'de PDF'lerle daha fazlasını yapın."
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "Hayır, teşekkürler"
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "Varsayılana ayarla"
+   },
+   "pdfOwnershipPromptOkFullscreen": {
+      "message": "Şimdi deneyin"
+   },
+   "popupNoConnection": {
+      "message": "Bağlantı Yok"
+   },
+   "popupOfflineMessage": {
+      "message": "Lütfen bağlantıyı sürdürmek için yöneticinizle iletişime geçin"
+   },
+   "saveLocationOp1": {
+      "message": "Bana her seferinde sor"
+   },
+   "saveLocationOp2": {
+      "message": "Adobe bulut depolama alanı"
+   },
+   "saveLocationOp3": {
+      "message": "Bilgisayarım"
+   },
+   "saveLocationPreferenceDescription": {
+      "message": "Dosyalarınızın kaydedileceği konumu belirleyin"
+   },
+   "saveLocationPreferenceTitle": {
+      "message": "Dosya konumunu kaydet"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "SharePoint dosyalarının Acrobat'ta teslim edilmesine izin ver."
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Acrobat'ta Aç"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Acrobat Doldur ve İmzala"
+   },
+   "successToastText": {
+      "message": "İndirilen PDF'ler artık Adobe Acrobat'ta açılacak"
+   },
+   "userLocale": {
+      "message": "Kullanıcı Dili"
+   },
+   "web2pdfAddButtonText": {
+      "message": "Varolan PDF'ye ekle..."
+   },
+   "web2pdfAlwaysShow": {
+      "message": "PDF'ler için otomatik olarak göster"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "Bağ Hedefini PDF’ye Ekle"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "Web Sayfasını Mevcut PDF’ye Ekle..."
+   },
+   "web2pdfBadVersion": {
+      "message": "Chrome'un bu sürümü Adobe Acrobat'ı desteklemiyor. Minimum sürüm: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": " Edge'in bu sürümü Adobe Acrobat'ı desteklemiyor. Minimum sürüm: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "PDF'yi Acrobat'ta açmak için aşağıdaki bağlantıyı tıklatın."
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Acrobat Uzantısı - Tüm PDF araçlarınızın kısayolu."
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Acrobat Reader uzantısı şu anda devre dışı. Lütfen BT yöneticiniz ile iletişime geçin"
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "PDF'yi Acrobat Reader'da Aç"
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "Bağ Hedefini PDF’ye Dönüştür"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Web Sayfasını Adobe PDF'ye Dönüştür..."
+   },
+   "web2pdfCopyText": {
+      "message": "Acrobat'a Kopyalanıyor"
+   },
+   "web2pdfDestinationText": {
+      "message": "Hedef klasör:"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "Tamamlandı"
+   },
+   "web2pdfExtnDescription": {
+      "message": "PDF'leri görüntülemek, dönüştürmek, sıkıştırmak ve imzalamak için Acrobat'ı tarayıcıda kullanın"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "PDF'leri görüntülemek, dönüştürmek, sıkıştırmak ve imzalamak için Acrobat'ı tarayıcıda kullanın"
+   },
+   "web2pdfExtnDescriptionChrome": {
+      "message": "Adobe Acrobat PDF araçlarıyla Google Chrome'da daha fazlasını yapın. Görüntüleyin, doldurun, yorum ekleyin, imzalayın ve dönüştürme ve sıkıştırma araçlarını deneyin."
+   },
+   "web2pdfExtnDescriptionEdge": {
+      "message": "Adobe Acrobat PDF araçlarıyla Microsoft Edge'de daha fazlasını yapın. Yorum ve imza ekleyin, Düzenle ve Dönüştür araçlarını deneyin."
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat: PDF düzenleme, dönüştürme, imzalama araçları"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat Beta"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Adobe Acrobat: PDF düzenleme, dönüştürme, imzalama araçları"
+   },
+   "web2pdfExtnNameStage": {
+      "message": "Adobe Acrobat Stage"
+   },
+   "web2pdfFileLockedError": {
+      "message": "Dosya başka bir işlem tarafından kullanıldığından kaydedilemiyor."
+   },
+   "web2pdfFilename": {
+      "message": "Dosya Adı:"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Adobe Acrobat uzantısı, görevinizi tamamlamanıza yardımcı olacak PDF araçlarını önerir. Önerilerimiz, aygıtınızda arama yaptığınız konuları ve gerçekleştirilen işlemleri temel alır. Aramalar Adobe'ye gönderilmez."
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_tr"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/tr/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Web sayfası işlenirken bir hata oluştu."
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "HTML İçeriği işlenemeyecek kadar büyük."
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Adobe Acrobat uzantısı, size yardımcı olacak PDF araçları önerir. Öneriler, aygıtınızda arama yaptığınız konuları ve gerçekleştirilen işlemleri temel alır. Aramalar Adobe'ye iletilmez. Bu özelliği devre dışı bırakmak için \u003Cspan class = \"tooltip-content-settings\">burayı\u003C/span> tıklatın."
+   },
+   "web2pdfLoaderTitle": {
+      "message": "Yükleniyor..."
+   },
+   "web2pdfMissingMac": {
+      "message": "Chrome için Adobe Acrobat henüz Mac'te kullanılamıyor"
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Microsoft Edge için Adobe Acrobat henüz Mac'te kullanılamıyor"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "Acrobat DC depolama alanınızda klasör yok."
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "Seçili dosya üzerinde yazma izinleriniz yok."
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Acrobat’ta Aç"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Adobe PDF İndir"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Acrobat Reader'da Aç"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Web sayfasından PDF'ye dönüştürme işlemi tamamlandıktan sonra, dönüştürülen PDF'yi otomatik olarak Acrobat'ta açar."
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "Dönüştürülen PDF'leri Acrobat'ta otomatik olarak aç"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "PDF'yi Acrobat’ta Aç"
+   },
+   "web2pdfOptOut": {
+      "message": "Bu uzantı, ürün özelliklerini geliştirmek için Adobe'ye uygulamayı nasıl kullandığınıza ilişkin bilgiler gönderir."
+   },
+   "web2pdfOptOutDisabled": {
+      "message": "Hiçbir kullanım veriniz paylaşılmıyor."
+   },
+   "web2pdfOptions": {
+      "message": "Seçenekler"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Adobe Acrobat Tercihleri"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "PDF açılamadı"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "Açılamadı"
+   },
+   "web2pdfPDFOpened": {
+      "message": "PDF Açıldı"
+   },
+   "web2pdfPDFOpening": {
+      "message": "PDF açılıyor"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "Tercihler..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "Dönüştürme ayarları..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Adobe Acrobat Hakkında"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "zaten mevcut.\n Değiştirmek istiyor musunuz?"
+   },
+   "web2pdfSave": {
+      "message": "Kaydet"
+   },
+   "web2pdfSaveButton": {
+      "message": "Tercihleri kaydet"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Google arama sonuçlarıyla göster"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "Acrobat'ı varsayılan PDF görüntüleyici olarak kullan"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "\"Acrobat'ta aç\" seçeneğini göster"
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "\"Acrobat'ta aç\" seçeneğini her zaman göster"
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "Her seferinde PDF'yi Acrobat'ta açma seçeneğini gösterir."
+   },
+   "web2pdfStatusCancelled": {
+      "message": "Dönüştürme İptal Edildi"
+   },
+   "web2pdfStatusComplete": {
+      "message": "Dönüştürme Başarılı"
+   },
+   "web2pdfStatusDownloading": {
+      "message": "Dönüştürme için indiriliyor..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "PDF İndiriliyor"
+   },
+   "web2pdfStatusFailure": {
+      "message": "Dönüştürme Hatası"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "Dönüştürme devam ediyor…"
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "Bilinmeyen Hata"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "Dönüştürme için bekleniyor..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "Desteklenen bir Acrobat sürümü bulunamadı. \u003Ca target='_blank' href='https://acrobat.adobe.com/tr/tr/free-trial-download.html?trackingid=29NMCS7T&mv=other'>7 günlük ücretsiz deneme sürümünü\u003C/a> yükleyin."
+   },
+   "web2pdfUntitledFileName": {
+      "message": "başlıksız"
+   },
+   "webpagePDFConversion": {
+      "message": "Web sayfasından PDF'ye dönüştürme ayarı"
+   },
+   "webpagePDFConversionDescription": {
+      "message": "Web sayfalarını PDF olarak kaydederken kenar boşluklarını, fontları ve diğer mizanpaj ayrıntılarını ayarlayabilirsiniz."
+   }
+}

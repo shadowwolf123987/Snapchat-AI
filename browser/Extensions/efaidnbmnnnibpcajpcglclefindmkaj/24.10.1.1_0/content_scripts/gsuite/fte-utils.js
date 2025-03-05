@@ -1,0 +1,18 @@
+/*************************************************************************
+* ADOBE CONFIDENTIAL
+* ___________________
+*
+*  Copyright 2015 Adobe Systems Incorporated
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of Adobe Systems Incorporated and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to Adobe Systems Incorporated and its
+* suppliers and are protected by all applicable intellectual property laws,
+* including trade secret and or copyright laws.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from Adobe Systems Incorporated.
+**************************************************************************/
+const GMAIL_FTE_TOOLTIP_CONTAINER_CLASS="acrobat-fte-tooltip-container",GMAIL_FTE_TOOLTIP_ELIGIBLE_EVAR="FteEligible",GMAIL_FTE_TOOLTIP_NOT_ELIGIBLE_EVAR="FteNotEligible",createFteToolTipDivObject=(t,o)=>{const e=document.createElement("div");return e.setAttribute("class",t),o&&o.length>0&&(e.textContent=o),e},createFteTooltipObject=(t,o,e)=>{const n=createFteToolTipDivObject(o,"");n.setAttribute("class",o);const i=createFteToolTipDivObject("acrobat-fte-tooltip",""),c=createFteToolTipDivObject(e,""),a=createFteToolTipDivObject("acrobat-fte-tooltip-title",t.title),l=createFteToolTipDivObject("acrobat-fte-tooltip-description",t.description),r=document.createElement("button");return r.setAttribute("class","acrobat-fte-tooltip-button"),r.textContent=t.button,i.appendChild(c),i.appendChild(a),i.appendChild(l),i.appendChild(r),n.appendChild(i),n},createFteTooltip=(t,o)=>{const e=createFteTooltipObject(t,`acrobat-fte-tooltip-container-${o} acrobat-fte-tooltip-container`,`acrobat-fte-tooltip-arrow-${o} acrobat-fte-tooltip-arrow`);return e.addEventListener("click",(t=>{t.preventDefault(),t.stopPropagation()})),e},getFteCustomCoolDownTime=async()=>{const{env:t}=await chrome.storage.local.get("env");if("prod"===t)return 0;const o=new URLSearchParams(window.location.search).get("acrobatTouchPointFteDay");return o?parseInt(o):0},shouldShowFteTooltip=(t,o,e)=>new Promise((n=>{if(!0===o?.touchPointClicked)return n(!1);document.getElementsByClassName("acrobat-fte-tooltip-container").length>0&&n(!1),chrome.storage.local.get(e,(o=>{const i=o?.[e];if(i?.touchPointClicked)return n(!1);if(!i?.enableFte)return n(!1);if(!t)return n(!1);const{maxFteCount:c}=t,{nextDate:a,count:l}=i,r=(new Date).getTime();n(r>a&&(l<c||-1===c))}))})),applyCoolDown=(t,o,e)=>{e?t.setSeconds(t.getSeconds()+o):t.setDate(t.getDate()+o)},getCoolDown=(t,o,e)=>{let n,i;return o>0?(n=t%3>0?e.shortCoolDown*o:e.longCoolDown*o,i=!0):(n=t%3>0?e.shortCoolDown:e.longCoolDown,i=!1),{coolDown:n,isSeconds:i}},updateFteToolTipCoolDown=async(t,o)=>{const e=await chrome.storage.local.get(o),n=new Date,i=e?.[o]||{count:0,nextDate:n.toISOString()},c=i.count+1,a=await getFteCustomCoolDownTime(),{coolDown:l,isSeconds:r}=getCoolDown(c,a,t);applyCoolDown(n,l,r),i.nextDate=n.getTime(),i.count=c;const s={[o]:i};chrome.storage.local.set(s)},removeGsuiteFteTooltip=()=>{const t=document.getElementsByClassName("acrobat-fte-tooltip-container");t.length>0&&t[0].remove()},acrobatTouchPointClicked=t=>{chrome.storage.local.get(t,(o=>{const e=o?.[t];if(!e||!0!==e.touchPointClicked){removeGsuiteFteTooltip(),e.touchPointClicked=!0;const o={[t]:e};chrome.storage.local.set(o)}}))},getAcrobatTouchPointFteEligibility=t=>t?"FteEligible":"FteNotEligible";export{createFteTooltip,shouldShowFteTooltip,updateFteToolTipCoolDown,acrobatTouchPointClicked,getAcrobatTouchPointFteEligibility,removeGsuiteFteTooltip};

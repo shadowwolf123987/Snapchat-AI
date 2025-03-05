@@ -1,0 +1,465 @@
+{
+   "ConvertVerbDescription": {
+      "message": "Pretvorite dokumente u PDF ili iz njega."
+   },
+   "Disable": {
+      "message": "Onemogući"
+   },
+   "EditVerbDescription": {
+      "message": "Prerasporedite, zakrenite ili izbrišite stranice u svojem PDF dokumentu"
+   },
+   "Enable": {
+      "message": "Omogući"
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/hr/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/hr/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "acrobatGmailFteToolTipButton": {
+      "message": "Got it"
+   },
+   "acrobatGmailFteToolTipDescription": {
+      "message": "Edit, convert, comment & sign - right in Chrome with Acrobat"
+   },
+   "acrobatGmailFteToolTipTitle": {
+      "message": "Open this PDF in Acrobat"
+   },
+   "acrobatGsuiteFteToolTipButton": {
+      "message": "Got it"
+   },
+   "acrobatGsuiteFteToolTipDescription": {
+      "message": "Edit, convert, comment & sign - right in Chrome with Acrobat"
+   },
+   "acrobatGsuiteFteToolTipTitle": {
+      "message": "Open this PDF in Acrobat"
+   },
+   "acrobatGsuiteTouchPointPreferenceDescription": {
+      "message": "This integration allows you to open and edit Gmail and Google Drive PDFs using the Acrobat extension"
+   },
+   "acrobatGsuiteTouchPointPreferenceTitle": {
+      "message": "Acrobat integration in Gmail and Google Drive"
+   },
+   "adobeYoloErrorMessage": {
+      "message": "Nažalost, ta veza nije valjana"
+   },
+   "adobeYoloMessage": {
+      "message": "Prijavljivanje u Acrobat..."
+   },
+   "analyticsOptinTitle": {
+      "message": "Pošalji podatke o upotrebi"
+   },
+   "appearancePrefDesc": {
+      "message": "Prebacivanje između tamne i svijetle teme"
+   },
+   "appearancePrefOp1": {
+      "message": "Upotrijebite postavke sustava"
+   },
+   "appearancePrefOp2": {
+      "message": "Dark mode"
+   },
+   "appearancePrefOp3": {
+      "message": "Light mode"
+   },
+   "appearancePrefTitle": {
+      "message": "Postavke tamnog načina"
+   },
+   "closeButton": {
+      "message": "Close"
+   },
+   "dcWebBookmarkTitle": {
+      "message": "Adobe Acrobat Home"
+   },
+   "doNotShowButton": {
+      "message": "Don't show again"
+   },
+   "downloadBannerContinue": {
+      "message": "Turn on"
+   },
+   "downloadBannerText": {
+      "message": "Open all downloaded PDFs in Acrobat by setting the app as default PDF viewer in Chrome"
+   },
+   "editMegaVerbText": {
+      "message": "Uredi"
+   },
+   "enableGenAIFeaturesDescription": {
+      "message": "Your file will be processed in the cloud to deliver a generative AI capability when you use a generative AI feature. Turning off this feature prevents your file from being processed and disables generative AI. You can reactivate it anytime."
+   },
+   "enableGenAIFeaturesTitle": {
+      "message": "Enable Generative AI features in Acrobat"
+   },
+   "extensionMenuTitle": {
+      "message": "Proširenje za Acrobat – prečac na sve vaše PDF alate"
+   },
+   "fteOwnershipSideRedCardContent": {
+      "message": "Komentirajte, ispunjavajte obrasce, potpisujte i još više kada Adobe Acrobat postavite kao zadani preglednik PDF datoteka u pregledniku Chrome."
+   },
+   "fteSideCardPrimaryHeader": {
+      "message": "Upotrijebite Acrobat"
+   },
+   "fteSideCardSecondaryHeader": {
+      "message": "u pregledniku Chrome"
+   },
+   "gDriveDVPAppListCoachMarkContent": {
+      "message": "Enable the checkbox 'Use by default' to directly open Google Drive PDFs in Acrobat from next time"
+   },
+   "gDriveDVPCoachMarkTitle": {
+      "message": "Set Acrobat as default viewer"
+   },
+   "gDriveDVPManageAppCoachMarkContent": {
+      "message": "Kliknite „Upravljanje aplikacijama” kako biste prikazali i uređivali PDF datoteke i dodavali komentare u njih tako da otvorite sve PDF-ove s Google Diska izravno u programu Acrobat"
+   },
+   "gSuiteDVPAddOnDefaultDesc": {
+      "message": "Acrobat Add On is now set as default"
+   },
+   "genericDVPCoachMarkContent": {
+      "message": "Click on 'Manage Apps', then scroll down to Acrobat Add On and click on 'Use by default' checkbox"
+   },
+   "gmailPromptFTETooltip": {
+      "message": "Open PDFs in Acrobat to use tools like Edit, Sign and more"
+   },
+   "gsuiteEditWithAcrobat": {
+      "message": "Edit with Acrobat"
+   },
+   "gsuiteOpenWithAcrobat": {
+      "message": "Open in Acrobat"
+   },
+   "localFileOptionDesc": {
+      "message": "Proširenju programa Acrobat dodijelite pristup URL-ovima lokalnih datoteka da biste sve PDF-ove otvarali u programu Acrobat u pregledniku Chrome."
+   },
+   "localFileOptionTitle": {
+      "message": "Otvaranje lokalnih PDF-ova u programu Acrobat"
+   },
+   "localFteContinue": {
+      "message": "Otvorite postavke"
+   },
+   "localFteDescription": {
+      "message": "Iskoristite sve prednosti proširenja programa Acrobat i upotrijebite ga za otvaranje svih PDF-ova. Uključite opciju Dopusti pristup URL-ovima datoteka u postavkama proširenja."
+   },
+   "localFteDontShowAgainText": {
+      "message": "Nemoj ponovo prikazivati"
+   },
+   "localFteTitle": {
+      "message": "Da biste otvorili lokalne datoteke, prebacite se na Acrobat"
+   },
+   "optionsFailurePrompt": {
+      "message": "Ne možemo spremiti izmjene. Pokušajte ponovo kasnije"
+   },
+   "optionsSuccessPrompt": {
+      "message": "Preference su uspješno spremljene"
+   },
+   "optionsSuccessPromptReloadRequired": {
+      "message": "Preference would be reflected only after reload"
+   },
+   "pdfOwnerShipDmbConfirmBtn": {
+      "message": "Nastavi"
+   },
+   "pdfOwnerShipSideRedCardConfirmBtn": {
+      "message": "Nastavi"
+   },
+   "pdfOwnershipDefSideCardcontent": {
+      "message": "Pregledavajte, komentirajte, ispunjavajte obrasce, potpisujte i još više kada Adobe Acrobat postavite kao zadani preglednik PDF datoteka."
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Upotrebljavajte Acrobat u pregledniku Chrome"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Upotrijebite Acrobat u pregledniku Microsoft Edge"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Postavite Acrobat kao zadani preglednik PDF datoteka u pregledniku radi upotrebe alata za komentiranje, ispunjavanje i potpisivanje te drugih alata za PDF."
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "Otvori PDF-ove u programu Acrobat"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "Ne sada"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Učinite više s PDF datotekama u pregledniku Chrome kada Adobe Acrobat postavite kao zadani preglednik."
+   },
+   "pdfOwnershipPromptContent2": {
+      "message": "Postavite Acrobat kao zadani preglednik PDF datoteka da biste PDF datoteke upotrebljavali u pregledniku Google Chrome. Komentirajte, ispunjavajte, potpisujte i isprobavajte alate kao što su pretvaranje i komprimiranje."
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Učinite više s PDF datotekama u pregledniku Microsoft Edge kada Adobe Acrobat postavite kao zadani preglednik."
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "Ne, hvala "
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "Postavite kao zadani program"
+   },
+   "pdfOwnershipPromptOkFullscreen": {
+      "message": "Isprobajte odmah"
+   },
+   "popupNoConnection": {
+      "message": "Niste povezani"
+   },
+   "popupOfflineMessage": {
+      "message": "Da biste uspostavili vezu, obratite se administratoru"
+   },
+   "saveLocationOp1": {
+      "message": "Pitaj svaki put"
+   },
+   "saveLocationOp2": {
+      "message": "Spremište u oblaku tvrtke Adobe"
+   },
+   "saveLocationOp3": {
+      "message": "Moje računalo"
+   },
+   "saveLocationPreferenceDescription": {
+      "message": "Postavite lokaciju spremanja datoteka"
+   },
+   "saveLocationPreferenceTitle": {
+      "message": "Lokacija spremanja datoteke"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "Dopusti odjavu datoteka programa SharePoint u programu Acrobat."
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Otvori u programu Acrobat"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Fill & Sign u programu Acrobat"
+   },
+   "successToastText": {
+      "message": "PDF downloads will now open in Adobe Acrobat"
+   },
+   "userLocale": {
+      "message": "Korisničke regionalne postavke"
+   },
+   "web2pdfAddButtonText": {
+      "message": "Dodavanje u postojeći PDF..."
+   },
+   "web2pdfAlwaysShow": {
+      "message": "Prikaži automatski za PDF-ove"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "Priloži odredišnu vezu u postojeći PDF"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "Dodavanje web-stranice u postojeći PDF..."
+   },
+   "web2pdfBadVersion": {
+      "message": "Ova verzija preglednika Chrome ne podržava Adobe Acrobat. Minimalna potrebna verzija: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": "Ta verzija preglednika Edge ne podržava Adobe Acrobat. Minimalna potrebna verzija: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "Pritisnite vezu u nastavku kako biste PDF otvorili u programu Acrobat."
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Acrobat Extension - Shortcut to all your PDF tools."
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Proširenje za Acrobat Reader trenutno je onemogućeno. Obratite se IT administratoru."
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "Otvori PDF u programu Acrobat Reader"
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "Pretvori odredište veze u Adobe PDF"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Pretvorba web-stranice u Adobe PDF..."
+   },
+   "web2pdfCopyText": {
+      "message": "Kopira se u Acrobat"
+   },
+   "web2pdfDestinationText": {
+      "message": "Odredišna mapa:"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "Gotovo"
+   },
+   "web2pdfExtnDescription": {
+      "message": "Upotrijebite Acrobat u pregledniku da biste pregledali, pretvorili, komprimirali i potpisali PDF dokumente"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "Upotrijebite Acrobat u pregledniku da biste pregledali, pretvorili, komprimirali i potpisali PDF dokumente"
+   },
+   "web2pdfExtnDescriptionChrome": {
+      "message": "Proširite mogućnosti preglednika Google Chrome uz alate za PDF dokumente programa Adobe Acrobat. Pregledavajte, ispunjavajte, komentirajte, potpisujte i isprobajte alate za pretvaranje i komprimiranje."
+   },
+   "web2pdfExtnDescriptionEdge": {
+      "message": "Iskoristite Microsoft Edge uz Adobe Acrobat PDF alate. Komentirajte, potpisujte i isprobavajte alate za pretvaranje i komprimiranje."
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat: alati za uređivanje, pretvorbu i potpisivanje PDF dokumenata"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat Beta"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Adobe Acrobat: alati za uređivanje, pretvorbu i potpisivanje PDF dokumenata"
+   },
+   "web2pdfExtnNameStage": {
+      "message": "Adobe Acrobat Stage"
+   },
+   "web2pdfFileLockedError": {
+      "message": "Datoteka se ne može spremiti jer je upotrebljava drugi proces."
+   },
+   "web2pdfFilename": {
+      "message": "Naziv datoteke:"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Proširenje Adobe Acrobat preporučit će PDF alate koji će vam omogućiti da izvršite zadatak. Naša preporuka temelji se na onom što ste tražili i događa se na samom uređaju, pretraživanje se neće poslati tvrtki Adobe."
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_hr"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Pogreška pri obradi web-stranice."
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "HTML sadržaj je prevelik za obradu."
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Proširenje Adobe Acrobat preporučit će PDF alate koji će vam omogućiti da izvršite zadatak. Naša preporuka temelji se na onom što ste tražili i događa se na samom uređaju, pretraživanje se neće poslati tvrtki Adobe. Ovu značajku možete onemogućiti u \u003Cspan class = \"tooltip-content-settings\">here\u003C/span>."
+   },
+   "web2pdfLoaderTitle": {
+      "message": "Učitava se..."
+   },
+   "web2pdfMissingMac": {
+      "message": "Adobe Acrobat za Chrome još nije dostupan za Mac"
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Adobe Acrobat za Microsoft Edge još nije dostupan za Mac"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "U spremištu za Acrobat DC nema mapa."
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "Nemate dopuštenje za zapisivanje u odabranu datoteku."
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Otvori u programu Acrobat"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Preuzmi Adobe PDF"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Otvori u programu Acrobat Reader"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Automatsko otvaranje pretvorenog PDF-a u programu Acrobat kada pretvaranje web-stranice u PDF završi."
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "Automatsko otvaranje pretvorenih PDF-ova u programu Acrobat"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "Otvori PDF u Acrobat"
+   },
+   "web2pdfOptOut": {
+      "message": "Kako bi se poboljšale značajke proizvoda, to proširenje tvrtki Adobe šalje podatke o tome kako ga upotrebljavate."
+   },
+   "web2pdfOptOutDisabled": {
+      "message": "Ne dijele se podaci o upotrebi."
+   },
+   "web2pdfOptions": {
+      "message": "Opcije"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Preference programa Adobe Acrobat"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "Otvaranje PDF-a nije uspjelo"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "Otvaranje nije uspjelo"
+   },
+   "web2pdfPDFOpened": {
+      "message": "PDF otvoren"
+   },
+   "web2pdfPDFOpening": {
+      "message": "Otvaranje PDF-a"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "Preference..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "Postavke pretvorbe..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Više o programu Adobe Acrobat"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "već postoji.\n Želite li zamijeniti?"
+   },
+   "web2pdfSave": {
+      "message": "Spremi"
+   },
+   "web2pdfSaveButton": {
+      "message": "Spremi preference"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Prikaži s rezultatima Google pretraživanja"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "Upotrebljavajte Acrobat kao zadani preglednik PDF datoteka"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "Prikaži \"Otvori u programu Acrobat\""
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "Uvijek prikaži \"Otvori u programu Acrobat\""
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "Prikaz opcije da se PDF svaki put otvori u programu Acrobat."
+   },
+   "web2pdfStatusCancelled": {
+      "message": "Pretvorba poništena"
+   },
+   "web2pdfStatusComplete": {
+      "message": "Pretvorba uspjela"
+   },
+   "web2pdfStatusDownloading": {
+      "message": "Preuzima se za pretvorbu..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "Preuzimanje PDF-a"
+   },
+   "web2pdfStatusFailure": {
+      "message": "Pretv. nije uspjela"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "Pretvorba u tijeku..."
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "Nepoznata pogreška"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "Čeka se pretvorba..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "Nije pronađena podržana verzija programa Acrobat. Instalirajte \u003Ca target='_blank' href='https://acrobat.adobe.com/hr/en/free-trial-download.html?trackingid=29NMCS7T&mv=other'>besplatnu sedmodnevnu probnu verziju\u003C/a>."
+   },
+   "web2pdfUntitledFileName": {
+      "message": "bez naslova"
+   },
+   "webpagePDFConversion": {
+      "message": "Postavka pretvorbe web-stranice u PDF"
+   },
+   "webpagePDFConversionDescription": {
+      "message": "Kada web-stranice spremate kao PDF-ove, postaviti možete margine, fontove i ostale detalje izgleda"
+   }
+}
