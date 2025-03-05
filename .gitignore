@@ -1,0 +1,14 @@
+#Ignores ENV file
+.env
+
+#Ignores Cache Browser Session
+browser/
+
+#Ignores all log files
+logs/
+
+#Ignores Random VS files
+/.vs/Snapchat AI
+/Snapchat AI.pyproj
+/Snapchat AI.pyproj.user
+/Snapchat AI.sln
