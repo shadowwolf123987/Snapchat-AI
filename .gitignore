@@ -2,6 +2,7 @@
 .env
 
 #Ignores Cache Browser Session
+browser/
 
 #Ignores all log files
 logs/
